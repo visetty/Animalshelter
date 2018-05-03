@@ -101,7 +101,7 @@ img {
   font-family:  fantasy;
   padding: 80px;
   margin-right: 10px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .dog1 ul {
@@ -109,7 +109,7 @@ img {
   font-family:  fantasy;
   padding: 80px;
   margin: 10px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .dog2 ul {
@@ -117,7 +117,7 @@ img {
   font-family:  fantasy;
   padding: 80px;
   margin-right: 10px;
-  font-size: 30px;
+  font-size: 20px;
 
 }
 
@@ -129,5 +129,5 @@ img {
 
 .dogp {
   font-size: 30px;
-  font-family: fantasy;
+  font-style: italic;
 }
